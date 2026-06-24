@@ -22,7 +22,6 @@ while True:
         // y solo ejecuta cuando  la condicion se cumpla en este es "si".   
 
 // Ubicacion donde empieza la pelota y la velocidad con la que se mueve.
-//lento y fácil; una velocidad alta lo hace más rápido y difícil. ---
     direccion_x = 1
     direccion_y = 1
     velocidad = 5     
