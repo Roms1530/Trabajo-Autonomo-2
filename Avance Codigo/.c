@@ -100,7 +100,7 @@ while True:
       //alguien llega al puntaje maximo.
   
   
-  if marcador_izquierda == 2 or marcador_derecha == 2:
+ if marcador_izquierda == 2 or marcador_derecha == 2:
         break
     
     //Aqui tenemos otro "break" cuando uno de los jugadores llegue al marcardor
